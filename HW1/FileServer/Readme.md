@@ -1,1 +1,1 @@
-This directory contains the code for the FileServer code.
+This directory contains the code for the FileServer application, which will create a small web app / web page that demonstrates how to create a website title and underneath it post a picture or image from our computer to our own website. 
