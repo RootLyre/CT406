@@ -1,1 +1,1 @@
-This directory contains the code for the MiniWeb program.
+This directory contains the code for the MiniWeb program, which takes user queries about countries from a database stored in the json file and filters through the countries based on the query results. 
