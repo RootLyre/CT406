@@ -1,1 +1,1 @@
-This directory contains the code for the 2nd tutorial from the textbook Environments which seperates the webpage created into a header and a body section.
+This directory contains the code for the 2nd tutorial from the textbook Environments which is intended to seperate the generated webpage created into a header and a body section. The header will read Courtesy of Programming ASP.NET Core! , a division line, and then in the body of the page, will be text saying "ENVIRONMENT=Development"
