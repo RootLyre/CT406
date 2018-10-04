@@ -1,0 +1,19 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "IndexNotStronglyTyped";
+}
+
+<h2>IndexNotStronglyTyped</h2>
+
+<p>
+    <ul>
+        @foreach (var blog in Model)
+        {
+            <li>
+                <a href="@blog.URL">@blog.Name</a>
+            </li>
+        }
+    </ul>
+</p>
+
