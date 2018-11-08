@@ -1,0 +1,11 @@
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\bin\Debug\netcoreapp2.1\ToDoApiMobile.deps.json
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\bin\Debug\netcoreapp2.1\ToDoApiMobile.runtimeconfig.json
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\bin\Debug\netcoreapp2.1\ToDoApiMobile.runtimeconfig.dev.json
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\bin\Debug\netcoreapp2.1\ToDoApiMobile.dll
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\obj\Debug\netcoreapp2.1\ToDoApiMobile.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\obj\Debug\netcoreapp2.1\ToDoApiMobile.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\obj\Debug\netcoreapp2.1\ToDoApiMobile.RazorAssemblyInfo.cache
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\obj\Debug\netcoreapp2.1\ToDoApiMobile.RazorAssemblyInfo.cs
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\obj\Debug\netcoreapp2.1\ToDoApiMobile.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\obj\Debug\netcoreapp2.1\ToDoApiMobile.AssemblyInfo.cs
+C:\Users\Alan\source\repos\ToDoApiMobile\ToDoApiMobile\obj\Debug\netcoreapp2.1\ToDoApiMobile.RazorTargetAssemblyInfo.cache
