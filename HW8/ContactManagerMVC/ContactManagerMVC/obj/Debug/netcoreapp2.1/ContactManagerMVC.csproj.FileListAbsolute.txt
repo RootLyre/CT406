@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\bin\Debug\netcoreapp2.1\ContactManagerMVC.deps.json
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\bin\Debug\netcoreapp2.1\ContactManagerMVC.runtimeconfig.json
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\bin\Debug\netcoreapp2.1\ContactManagerMVC.runtimeconfig.dev.json
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\bin\Debug\netcoreapp2.1\ContactManagerMVC.dll
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.RazorAssemblyInfo.cache
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.RazorAssemblyInfo.cs
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.AssemblyInfo.cs
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\bin\Debug\netcoreapp2.1\ContactManagerMVC.pdb
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.dll
+C:\Users\Alan\source\repos\ContactManagerMVC\ContactManagerMVC\obj\Debug\netcoreapp2.1\ContactManagerMVC.pdb
